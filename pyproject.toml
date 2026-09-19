@@ -9,7 +9,7 @@ description = "A tiny library that does one thing when you import it."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "1337tr", email = "pypi.compactly049@passmail.net" }]
 keywords = ["template", "example"]
 classifiers = [
   "Programming Language :: Python :: 3",
@@ -19,8 +19,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourname/trolllib"
-Issues = "https://github.com/yourname/trolllib/issues"
+Homepage = "https://github.com/1337tr/trolllib"
+Issues = "https://github.com/1337tr/trolllib/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "build>=1", "twine>=5"]
